@@ -1,0 +1,5 @@
+../Core/Src/main.c:56:10:convertTempToPWM	32	static
+../Core/Src/main.c:99:7:Max31855_Read_Temp	8	static
+../Core/Src/main.c:227:6:SystemClock_Config	80	static,ignoring_inline_asm
+../Core/Src/main.c:157:5:main	72	static,ignoring_inline_asm
+../Core/Src/main.c:398:6:Error_Handler	0	static,ignoring_inline_asm
